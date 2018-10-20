@@ -1,0 +1,2 @@
+# digital-talent
+Tugas BMI
